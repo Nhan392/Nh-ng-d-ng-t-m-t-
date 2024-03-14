@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['ẤN VÀO MÀN HÌNH ĐI :)','HI', 'XIN CHÀO BẠN', 'CẢM ƠN VÌ ', 'ĐÃ ĐỌC NHỮNG DÒNG CHỮ NÀY', 'CẢM ƠN VÌ TẤT CẢ', 'CẢM ƠN VÌ ĐÃ ĐẾN BÊN TÔI', 'CẢM ƠN VÌ ĐÃ KHÔNG RỜI XA TÔI', 'CẢM ƠN VÌ LUÔN Ở BÊN CẠNH TÔI', 'CẢM ƠN ĐÃ CHĂM SÓC CHO TÔI', 'CẢM ƠN VÌ LUÔN THA THỨ CHO TÔI',  'I', 'LOVE', 'YOU ♡', 'HAPPY VALENTINE DAY','HY VỌNG CHÚNG TA LUÔN BÊN NHAU','BYE']
+  let texts = ['ẤN VÀO MÀN HÌNH ĐI','HI', 'XIN CHÀO BẠN', 'CẢM ƠN VÌ ', 'ĐÃ ĐỌC NHỮNG DÒNG CHỮ NÀY', 'CẢM ƠN VÌ TẤT CẢ', 'CẢM ƠN VÌ ĐÃ ĐẾN BÊN TÔI', 'CẢM ƠN VÌ ĐÃ KHÔNG RỜI XA TÔI', 'CẢM ƠN VÌ LUÔN Ở BÊN CẠNH TÔI', 'CẢM ƠN ĐÃ CHĂM SÓC CHO TÔI', 'CẢM ƠN VÌ LUÔN THA THỨ CHO TÔI',  'I', 'LOVE', 'YOU ♡', 'HAPPY VALENTINE DAY','HY VỌNG CHÚNG TA LUÔN BÊN NHAU','BYE']
 
   let canvas,
     ctx,
